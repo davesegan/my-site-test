@@ -1,7 +1,7 @@
 # David's website
 
-Check out all my data science projects.
+Check out my data science projects.
 
-### A header!
+### Header
 
-My first project...
+Projects:
